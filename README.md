@@ -1,2 +1,1 @@
-# IKU-Rules
 Own rules
